@@ -1,13 +1,7 @@
-## Who am I? 👋
+## Hello World! 👋
 
-<!-- - 🔭 I’m currently working on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-
-- 👋 Hi there! I'm Nishant Shinde
-- 👀 I’m interested in Web development, App development and Game development along with VR
-- 🌱 I’m currently learning new skills along with solidification of old skills
-- 💞️ I’m looking to collaborate on Web, App, Game or VR related projects
+- 👋 My name is Nishant, glad you came here :)
+- 🌱 I have experience in developing applications based on Python, Java, React and Laravel. I'm also familiar with Unity, Meta XR and React Native
+- 💞️ I’m open to collaborate on agentic AI, Web, Games, or XR related projects
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: By email - [nishantshindelp@gmail.com](mailto:nishantshindelp@gmail.com)
